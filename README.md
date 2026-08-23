@@ -1,44 +1,55 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Antonio Spiezia — founding GTM, operator, builder" width="100%" />
+<img src="./assets/hero-v2-wide.png" alt="Original analog collage: a Montréal sunset, vinyl glow, motion blur, and halftone texture" width="100%" />
 
 <br />
 
-<a href="https://antoniospiezia.com"><img src="https://img.shields.io/badge/antoniospiezia.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7ee787&labelColor=161b22" alt="Website" /></a>
-<a href="https://x.com/antonio_spie"><img src="https://img.shields.io/badge/@antonio__spie-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=161b22" alt="X" /></a>
-<a href="https://www.linkedin.com/in/antoniovspiezia/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=161b22" alt="LinkedIn" /></a>
-<a href="mailto:me@antoniospiezia.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=protonmail&logoColor=ff6b6b&labelColor=161b22" alt="Email" /></a>
+# ANTONIO SPIEZIA
+
+**founding GTM · ex-IB · operator · community guy**
+
+<br />
+
+<img src="https://img.shields.io/badge/—-f06d2f?style=flat-square" alt="burnt orange" />
+<img src="https://img.shields.io/badge/—-f6c945?style=flat-square" alt="mustard yellow" />
+<img src="https://img.shields.io/badge/—-243b6b?style=flat-square" alt="midnight blue" />
+<img src="https://img.shields.io/badge/—-6f7041?style=flat-square" alt="moss green" />
+<img src="https://img.shields.io/badge/—-d6a7a1?style=flat-square" alt="dusty rose" />
+
+<br /><br />
+
+<a href="https://antoniospiezia.com"><img src="https://img.shields.io/badge/website-17120f?style=for-the-badge&logo=googlechrome&logoColor=f6c945&labelColor=17120f" alt="Website" /></a>
+<a href="https://x.com/antonio_spie"><img src="https://img.shields.io/badge/@antonio__spie-17120f?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=17120f" alt="X" /></a>
+<a href="https://www.linkedin.com/in/antoniovspiezia/"><img src="https://img.shields.io/badge/linkedin-17120f?style=for-the-badge&logo=linkedin&logoColor=f06d2f&labelColor=17120f" alt="LinkedIn" /></a>
+<a href="mailto:me@antoniospiezia.com"><img src="https://img.shields.io/badge/email-17120f?style=for-the-badge&logo=protonmail&logoColor=f6c945&labelColor=17120f" alt="Email" /></a>
 
 </div>
 
 <br />
 
-## The short version
+> **I like the part before the obvious thing.**<br />
+> The half-formed idea, the first customer conversation, the room that needs to exist before anyone knows to ask for it.
+
+<br />
+
+## LINER NOTES
 
 I build the go-to-market layer around ambitious technical teams.
 
-Right now, I’m a **Founding GTM member at [Hilt](https://hilt.ai/)**, focused on real-time data access governance. Before that, I co-founded [trails](https://trails.legal/) and helped grow it from assistant → legal research → AI-native law firm.
+Right now, I’m a **Founding GTM member at [Hilt](https://hilt.ai/)**, focused on real-time data access governance. Before that, I co-founded [trails](https://trails.legal/) and helped grow it through several evolutions: assistant → legal research → AI-native law firm.
 
-I’m based in **Montréal, Québec** — usually somewhere between a builder meetup, a gym, and a very opinionated meal.
+Based in **Montréal, Québec**. Usually somewhere between a builder meetup, a gym, and a very opinionated meal.
 
 <br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### NOW
+### SIDE A · THE WORK
 
 **Hilt**<br />
 Founding GTM · data access governance
-
-**OpenMTL**<br />
-Founders, engineers & curious people building in Montréal
-
-</td>
-<td width="33%" valign="top">
-
-### BEFORE
 
 **trails**<br />
 Co-founder & CEO · AI-native legal work
@@ -47,9 +58,12 @@ Co-founder & CEO · AI-native legal work
 TD Asset Management · BNP Paribas · National Bank
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### AROUND HERE
+### SIDE B · THE ROOMS
+
+**[OpenMTL](https://luma.com/openmtl)**<br />
+Founders, engineers & curious people building in Montréal
 
 **BagelHacks**<br />
 Hackathons, Montréal-style
@@ -63,7 +77,7 @@ Cafés and meetups for Cursor builders
 
 <br />
 
-## My operating system
+## THE LOOP
 
 ```text
   notice the signal  →  get close to users  →  make the thing real
@@ -75,9 +89,9 @@ I’m most energized by the messy middle: finding the wedge, translating technic
 
 <br />
 
-## Selected threads
+## DEEP CUTS
 
-| thread | what it looks like |
+| | |
 | :--- | :--- |
 | **GTM × technical products** | Positioning, early pipeline, customer conversations, and the systems that make all three compound. |
 | **Communities that ship** | OpenMTL, BagelHacks, Cursor MTL, and a Montréal builder network with 300+ people. |
@@ -86,20 +100,20 @@ I’m most energized by the messy middle: finding the wedge, translating technic
 
 <br />
 
-## Signal, not vanity metrics
+## SIGNAL LIGHTS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-161b22?style=flat-square&logo=github&logoColor=7ee787" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/PULL%20SHARK-161b22?style=flat-square&logo=github&logoColor=79c0ff" alt="Pull Shark" />
-<img src="https://img.shields.io/badge/YOLO-161b22?style=flat-square&logo=github&logoColor=ff7b72" alt="YOLO" />
-<img src="https://img.shields.io/badge/MONTREAL-161b22?style=flat-square&logo=googlemaps&logoColor=ffa657" alt="Montreal" />
+<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-17120f?style=flat-square&logo=github&logoColor=f6c945" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/PULL%20SHARK-17120f?style=flat-square&logo=github&logoColor=f06d2f" alt="Pull Shark" />
+<img src="https://img.shields.io/badge/YOLO-17120f?style=flat-square&logo=github&logoColor=d6a7a1" alt="YOLO" />
+<img src="https://img.shields.io/badge/MONTRÉAL-17120f?style=flat-square&logo=googlemaps&logoColor=6f7041" alt="Montreal" />
 
 </div>
 
 <br />
 
-## Find me in the wild
+## CURRENT ROTATION
 
 <div align="center">
 
@@ -110,13 +124,13 @@ I’m most energized by the messy middle: finding the wedge, translating technic
 <br />
 
 <details>
-<summary><b>Currently reading / eating / thinking about</b></summary>
+<summary><b>Reading / eating / thinking about</b></summary>
 
 <br />
 
 **Reading:** [The Creative Act](https://www.amazon.ca/dp/0593652886) · [The Infinity Machine](https://www.amazon.com/Infinity-Machine-Hassabis-DeepMind-Superintelligence/dp/0593831845) · [Manias, Panics, and Crashes](https://www.amazon.ca/Manias-Panics-Crashes-History-Financial/dp/1137525754)
 
-**Montreal food map:** [Damas](https://www.damas.ca/) · [Moccione](https://moccione.com/) · [Sumac](https://sumacrestaurant.com/) · [Olimpico](https://cafeolimpico.com/)
+**Montréal food map:** [Damas](https://www.damas.ca/) · [Moccione](https://moccione.com/) · [Sumac](https://sumacrestaurant.com/) · [Olimpico](https://cafeolimpico.com/)
 
 **Default mode:** curious, direct, slightly over-caffeinated.
 
