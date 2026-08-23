@@ -32,80 +32,31 @@
 
 <br />
 
-## LINER NOTES
-
-<div align="center">
-
-<img src="./assets/signal-map.svg" alt="A hand-built personal signal map showing curiosity, momentum, craft, people, and an always-in-beta core" width="100%" />
-
-</div>
-
-<details>
-<summary><b>inspect the protocol</b></summary>
-
-<br />
-
-```yaml
-profile:
-  mode: builder
-  surface: people × products
-  loop: signal → context → conviction → motion
-  runtime: always in beta
-  dependencies:
-    - good questions
-    - high-agency people
-    - one more coffee
-```
-
-No framework. No tracking pixels. Just a small, hand-rolled interface for the things I keep coming back to.
-
-</details>
-
-<br />
-
-## THE LOOP
-
-```text
-  notice the signal  →  get close to users  →  make the thing real
-          ↑                                      ↓
-       stay curious  ←  build the community  ←  ship the loop
-```
-
-I’m most energized by the messy middle: finding the wedge, translating technical ideas into momentum, and getting the right people in a room together.
-
-<br />
-
-## DEEP CUTS
-
-| | |
-| :--- | :--- |
-| **GTM × technical products** | Positioning, early pipeline, customer conversations, and the systems that make all three compound. |
-| **Communities that ship** | OpenMTL, BagelHacks, Cursor MTL, and a Montréal builder network with 300+ people. |
-| **Finance → tech** | A decade of pattern recognition from banking and asset management, now applied to startups and AI. |
-| **Small bets, consistently** | Writing, shipping, training, reading, and finding the next excellent place to eat. |
-
-<br />
-
-## SIGNAL LIGHTS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-17120f?style=flat-square&logo=github&logoColor=f6c945" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/PULL%20SHARK-17120f?style=flat-square&logo=github&logoColor=f06d2f" alt="Pull Shark" />
-<img src="https://img.shields.io/badge/YOLO-17120f?style=flat-square&logo=github&logoColor=d6a7a1" alt="YOLO" />
-<img src="https://img.shields.io/badge/MONTRÉAL-17120f?style=flat-square&logo=googlemaps&logoColor=6f7041" alt="Montreal" />
-
-</div>
-
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## CURRENT ROTATION
 
-<div align="center">
+**[OpenMTL](https://luma.com/openmtl)**<br />
+**[Hilt](https://hilt.ai/)**<br />
+**[trails](https://trails.legal/)**<br />
+**[BagelHacks](https://www.instagram.com/antoniospiezia/)**<br />
+**[Cursor MTL](https://x.com/antoniospiezia)**
 
-**[OpenMTL](https://luma.com/openmtl)** · **[Hilt](https://hilt.ai/)** · **[trails](https://trails.legal/)** · **[BagelHacks](https://www.instagram.com/antoniospiezia/)** · **[Cursor MTL](https://x.com/antoniospiezia)**
+</td>
+<td width="50%" valign="top">
 
-</div>
+## SIGNAL HIGHLIGHTS
+
+<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-17120f?style=flat-square&logo=github&logoColor=f6c945" alt="Pair Extraordinaire" /><br />
+<img src="https://img.shields.io/badge/PULL%20SHARK-17120f?style=flat-square&logo=github&logoColor=f06d2f" alt="Pull Shark" /><br />
+<img src="https://img.shields.io/badge/YOLO-17120f?style=flat-square&logo=github&logoColor=d6a7a1" alt="YOLO" /><br />
+<img src="https://img.shields.io/badge/MONTRÉAL-17120f?style=flat-square&logo=googlemaps&logoColor=6f7041" alt="Montreal" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
