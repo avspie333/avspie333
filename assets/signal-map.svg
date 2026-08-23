@@ -1,0 +1,81 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="70" y1="35" x2="1130" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17120F"/>
+      <stop offset="0.48" stop-color="#1F1A1A"/>
+      <stop offset="1" stop-color="#111A2D"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="190" y1="180" x2="1000" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F06D2F"/>
+      <stop offset="0.45" stop-color="#F6C945"/>
+      <stop offset="1" stop-color="#D6A7A1"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(602 284) rotate(90) scale(158)">
+      <stop stop-color="#F6C945" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#F6C945" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#F6C945" fill-opacity="0.24"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8" fill="none" stroke="#F6C945" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="558" rx="22" fill="url(#paper)" stroke="#493B35" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="512" rx="15" fill="url(#dots)" opacity="0.24"/>
+  <ellipse cx="602" cy="284" rx="190" ry="180" fill="url(#core)" filter="url(#soft)"/>
+
+  <g opacity="0.5" stroke="#D6A7A1" stroke-width="1">
+    <path d="M72 120H1128" stroke-dasharray="2 10"/>
+    <path d="M72 438H1128" stroke-dasharray="2 10"/>
+    <path d="M160 72V488" stroke-dasharray="2 10"/>
+    <path d="M1040 72V488" stroke-dasharray="2 10"/>
+  </g>
+
+  <text x="72" y="88" fill="#F6C945" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="3">LINER NOTES / PERSONAL SIGNAL MAP</text>
+  <text x="1128" y="88" text-anchor="end" fill="#9D8E87" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">V0.1 · NO FRAMEWORK · HAND-ROLLED SVG</text>
+
+  <g stroke="url(#ink)" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)">
+    <path d="M358 244C328 191 362 147 424 152"/>
+    <path d="M776 152C838 147 872 191 842 244"/>
+    <path d="M842 324C872 377 838 421 776 416"/>
+    <path d="M424 416C362 421 328 377 358 324"/>
+    <path d="M448 214C489 180 541 163 602 163"/>
+    <path d="M602 163C663 163 715 180 756 214"/>
+    <path d="M756 354C715 388 663 405 602 405"/>
+    <path d="M602 405C541 405 489 388 448 354"/>
+  </g>
+
+  <g fill="#17120F" stroke="#F6C945" stroke-width="2">
+    <circle cx="392" cy="152" r="42"/>
+    <circle cx="812" cy="152" r="42"/>
+    <circle cx="812" cy="416" r="42"/>
+    <circle cx="392" cy="416" r="42"/>
+    <circle cx="602" cy="284" r="115" stroke="#F06D2F"/>
+  </g>
+
+  <g fill="#F6C945" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.5" text-anchor="middle">
+    <text x="392" y="148">CURIOSITY</text><text x="392" y="166" fill="#D6A7A1" font-size="10" font-weight="400">input</text>
+    <text x="812" y="148">MOMENTUM</text><text x="812" y="166" fill="#D6A7A1" font-size="10" font-weight="400">output</text>
+    <text x="812" y="412">CRAFT</text><text x="812" y="430" fill="#D6A7A1" font-size="10" font-weight="400">ship</text>
+    <text x="392" y="412">PEOPLE</text><text x="392" y="430" fill="#D6A7A1" font-size="10" font-weight="400">context</text>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="602" y="258" fill="#F0E8DE" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="700" letter-spacing="4">ANTONIO</text>
+    <text x="602" y="291" fill="#F06D2F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="3">MONTRÉAL / ALWAYS IN BETA</text>
+    <text x="602" y="329" fill="#D6A7A1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.2">signal → context → conviction → motion</text>
+  </g>
+
+  <g fill="#F0E8DE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">
+    <text x="72" y="494">$ cat /etc/antonio/mode</text>
+    <text x="1128" y="494" text-anchor="end" fill="#F6C945">curious · direct · over-caffeinated</text>
+  </g>
+  <circle cx="88" cy="510" r="4" fill="#F06D2F"/>
+  <circle cx="104" cy="510" r="4" fill="#F6C945"/>
+  <circle cx="120" cy="510" r="4" fill="#6F7041"/>
+</svg>

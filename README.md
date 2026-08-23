@@ -19,7 +19,7 @@
 <br /><br />
 
 <a href="https://antoniospiezia.com"><img src="https://img.shields.io/badge/website-17120f?style=for-the-badge&logo=googlechrome&logoColor=f6c945&labelColor=17120f" alt="Website" /></a>
-<a href="https://x.com/antonio_spie"><img src="https://img.shields.io/badge/@antonio__spie-17120f?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=17120f" alt="X" /></a>
+<a href="https://x.com/antoniospiezia"><img src="https://img.shields.io/badge/%40antoniospiezia-17120f?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=17120f" alt="X" /></a>
 <a href="https://www.linkedin.com/in/antoniovspiezia/"><img src="https://img.shields.io/badge/linkedin-17120f?style=for-the-badge&logo=linkedin&logoColor=f06d2f&labelColor=17120f" alt="LinkedIn" /></a>
 <a href="mailto:me@antoniospiezia.com"><img src="https://img.shields.io/badge/email-17120f?style=for-the-badge&logo=protonmail&logoColor=f6c945&labelColor=17120f" alt="Email" /></a>
 
@@ -34,46 +34,32 @@
 
 ## LINER NOTES
 
-I build the go-to-market layer around ambitious technical teams.
+<div align="center">
 
-Right now, I’m a **Founding GTM member at [Hilt](https://hilt.ai/)**, focused on real-time data access governance. Before that, I co-founded [trails](https://trails.legal/) and helped grow it through several evolutions: assistant → legal research → AI-native law firm.
+<img src="./assets/signal-map.svg" alt="A hand-built personal signal map showing curiosity, momentum, craft, people, and an always-in-beta core" width="100%" />
 
-Based in **Montréal, Québec**. Usually somewhere between a builder meetup, a gym, and a very opinionated meal.
+</div>
+
+<details>
+<summary><b>inspect the protocol</b></summary>
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```yaml
+profile:
+  mode: builder
+  surface: people × products
+  loop: signal → context → conviction → motion
+  runtime: always in beta
+  dependencies:
+    - good questions
+    - high-agency people
+    - one more coffee
+```
 
-### SIDE A · THE WORK
+No framework. No tracking pixels. Just a small, hand-rolled interface for the things I keep coming back to.
 
-**Hilt**<br />
-Founding GTM · data access governance
-
-**trails**<br />
-Co-founder & CEO · AI-native legal work
-
-**Finance**<br />
-TD Asset Management · BNP Paribas · National Bank
-
-</td>
-<td width="50%" valign="top">
-
-### SIDE B · THE ROOMS
-
-**[OpenMTL](https://luma.com/openmtl)**<br />
-Founders, engineers & curious people building in Montréal
-
-**BagelHacks**<br />
-Hackathons, Montréal-style
-
-**Cursor MTL**<br />
-Cafés and meetups for Cursor builders
-
-</td>
-</tr>
-</table>
+</details>
 
 <br />
 
@@ -117,7 +103,7 @@ I’m most energized by the messy middle: finding the wedge, translating technic
 
 <div align="center">
 
-**[OpenMTL](https://luma.com/openmtl)** · **[Hilt](https://hilt.ai/)** · **[trails](https://trails.legal/)** · **[BagelHacks](https://www.instagram.com/antoniospiezia/)** · **[Cursor MTL](https://x.com/antonio_spie)**
+**[OpenMTL](https://luma.com/openmtl)** · **[Hilt](https://hilt.ai/)** · **[trails](https://trails.legal/)** · **[BagelHacks](https://www.instagram.com/antoniospiezia/)** · **[Cursor MTL](https://x.com/antoniospiezia)**
 
 </div>
 
