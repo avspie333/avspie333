@@ -32,34 +32,6 @@
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## CURRENT ROTATION
-
-**[OpenMTL](https://luma.com/openmtl)**<br />
-**[Hilt](https://hilt.ai/)**<br />
-**[trails](https://trails.legal/)**<br />
-**[BagelHacks](https://www.instagram.com/antoniospiezia/)**<br />
-**[Cursor MTL](https://x.com/antoniospiezia)**
-
-</td>
-<td width="50%" valign="top">
-
-## SIGNAL HIGHLIGHTS
-
-<img src="https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-17120f?style=flat-square&logo=github&logoColor=f6c945" alt="Pair Extraordinaire" /><br />
-<img src="https://img.shields.io/badge/PULL%20SHARK-17120f?style=flat-square&logo=github&logoColor=f06d2f" alt="Pull Shark" /><br />
-<img src="https://img.shields.io/badge/YOLO-17120f?style=flat-square&logo=github&logoColor=d6a7a1" alt="YOLO" /><br />
-<img src="https://img.shields.io/badge/MONTRÉAL-17120f?style=flat-square&logo=googlemaps&logoColor=6f7041" alt="Montreal" />
-
-</td>
-</tr>
-</table>
-
-<br />
-
 <details>
 <summary><b>Reading / eating / thinking about</b></summary>
 
