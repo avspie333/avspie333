@@ -1,0 +1,51 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#1B1032"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="50" y1="40" x2="1120" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EE787"/>
+      <stop offset="0.52" stop-color="#79C0FF"/>
+      <stop offset="1" stop-color="#D2A8FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 48) rotate(136) scale(360 360)">
+      <stop stop-color="#D2A8FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#D2A8FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#glow)"/>
+
+  <g opacity="0.18" stroke="#8B949E" stroke-width="1">
+    <path d="M0 80H1200"/><path d="M0 160H1200"/><path d="M0 240H1200"/>
+    <path d="M120 0V330"/><path d="M300 0V330"/><path d="M480 0V330"/><path d="M660 0V330"/><path d="M840 0V330"/><path d="M1020 0V330"/>
+  </g>
+
+  <g opacity="0.18" filter="url(#blur)">
+    <circle cx="1010" cy="38" r="56" fill="#D2A8FF"/>
+    <circle cx="1100" cy="266" r="70" fill="#79C0FF"/>
+  </g>
+
+  <path d="M56 275C213 234 278 298 426 260C553 228 603 267 733 232C851 200 924 234 1140 90" stroke="url(#stroke)" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 9" opacity="0.9"/>
+  <circle cx="56" cy="275" r="5" fill="#7EE787"/>
+  <circle cx="426" cy="260" r="5" fill="#79C0FF"/>
+  <circle cx="733" cy="232" r="5" fill="#D2A8FF"/>
+  <circle cx="1140" cy="90" r="5" fill="#FFB86C"/>
+
+  <text x="66" y="84" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">AVSPIE333 / PROFILE README</text>
+  <text x="62" y="154" fill="#F0F6FC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">ANTONIO SPIEZIA</text>
+  <text x="67" y="194" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="2">FOUNDING GTM · EX-IB · OPERATOR</text>
+  <text x="67" y="232" fill="#C9D1D9" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Building momentum around technical teams in Montréal.</text>
+
+  <g transform="translate(1010 232)">
+    <rect width="118" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
+    <circle cx="21" cy="17" r="5" fill="#7EE787"/>
+    <text x="36" y="22" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">OPEN TO GOOD</text>
+  </g>
+</svg>
